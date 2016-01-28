@@ -1,0 +1,9 @@
+---
+csss: [ { css: "../css/responsive-basic.css" }, { css: "../data-css/modelA.css" } ]
+header: {
+   title: "Chercheur de correlation",
+   description: "Outil d'exploration de données économiques et financières.",
+      author: "jvtrudel",
+      author_link: "https://github.com/jvtrudel"
+   }
+---

@@ -1,0 +1,8 @@
+---
+doctype: html
+headProp: "lang=fr"
+body:
+article:
+main: "{{main}}"
+article:
+---
